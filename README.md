@@ -1,2 +1,2 @@
 # Web-Scraping
-For web scraping
+Web scraping a property website and storing all the information related to properties in excel sheet.
